@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![](https://imgur.com/a/rrYTuS9)
+
+![Prework](https://github.com/drkchn/web102_prework/assets/57195399/bc7f22cb-8bf1-44aa-a0ed-7ef24277a8fb)
 
 GIF created with Kap
 
